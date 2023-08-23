@@ -1,0 +1,8 @@
+C:\Users\tof\source\repos\Game damage system\Game damage system\obj\Debug\Game damage system.csproj.AssemblyReference.cache
+C:\Users\tof\source\repos\Game damage system\Game damage system\obj\Debug\Game damage system.csproj.SuggestedBindingRedirects.cache
+C:\Users\tof\source\repos\Game damage system\Game damage system\obj\Debug\Game damage system.csproj.CoreCompileInputs.cache
+C:\Users\tof\source\repos\Game damage system\Game damage system\bin\Debug\Game damage system.exe.config
+C:\Users\tof\source\repos\Game damage system\Game damage system\bin\Debug\Game damage system.exe
+C:\Users\tof\source\repos\Game damage system\Game damage system\bin\Debug\Game damage system.pdb
+C:\Users\tof\source\repos\Game damage system\Game damage system\obj\Debug\Game damage system.exe
+C:\Users\tof\source\repos\Game damage system\Game damage system\obj\Debug\Game damage system.pdb
